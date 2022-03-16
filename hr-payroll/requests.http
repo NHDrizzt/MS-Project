@@ -1,2 +1,5 @@
 ###
 get http://localhost:8102/payments/2/days/20
+
+###
+get http://localhost:8002/worker/2
