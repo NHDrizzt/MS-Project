@@ -1,0 +1,5 @@
+### hrworker Find all ### 
+get http://localhost:8002/worker/
+
+### hrworkers find by id ### 
+get http://localhost:8002/worker/1
